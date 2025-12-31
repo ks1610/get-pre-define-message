@@ -1,0 +1,60 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 15px;
+  background-color: #f9f9f9;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+h3 {
+  margin: 0 0 10px 0;
+  color: #333;
+  text-align: center;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+  outline: none;
+}
+
+input:focus {
+  border-color: #007bff;
+}
+
+.result-card {
+  background: white;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+  font-size: 14px;
+  line-height: 1.5;
+  cursor: pointer;
+  transition: background 0.2s;
+  white-space: pre-wrap; 
+  word-wrap: break-word; 
+}
+
+.result-card:hover {
+  background-color: #eef5ff;
+}
+
+.result-key {
+  font-size: 11px;
+  color: #888;
+  margin-bottom: 4px;
+}
+
+.copy-hint {
+  font-size: 10px;
+  color: #28a745;
+  float: right;
+  display: none;
+}
