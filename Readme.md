@@ -90,15 +90,3 @@ Khi bạn thêm dòng mới vào Google Sheet:
 3.  Tắt Extension đi bật lại (hoặc đóng mở lại Sidebar) để nạp dữ liệu mới. **Không cần cài lại extension.**
 
 ---
-
-## 🔧 Tùy chỉnh nâng cao
-
-### Thay đổi Icon
-Thay thế file `icon.png` trong thư mục bằng hình ảnh của bạn (khuyên dùng file PNG kích thước 128x128px) và Reload lại extension.
-
-### Thay đổi phím tắt
-1.  Vào trang quản lý Extensions (`chrome://extensions`).
-2.  Chọn menu **Keyboard shortcuts** (Phím tắt) ở thanh bên trái.
-3.  Tìm extension này và nhấn tổ hợp phím bạn muốn (VD: `Ctrl + Space`, `Alt + S`...).
-
----
