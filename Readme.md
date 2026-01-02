@@ -78,7 +78,7 @@ Extension này chưa được đăng lên Chrome Web Store, bạn cần cài đ�
 
 ### 2. Tìm kiếm và Copy
 1.  Sau khi mở, con trỏ chuột sẽ tự động nằm ở ô tìm kiếm.
-2.  Nhập từ khóa liên quan đến vấn đề khách hỏi (ví dụ: "giá", "đổi trả").
+2.  Nhập từ khóa liên quan đến vấn đề khách hỏi (ví dụ: "overflow", "broken page").
 3.  Danh sách các câu trả lời phù hợp sẽ hiện ra bên dưới.
 4.  **Click chuột trái** vào ô câu trả lời bất kỳ để COPY.
 5.  Dán (Paste) vào khung chat với khách hàng.
